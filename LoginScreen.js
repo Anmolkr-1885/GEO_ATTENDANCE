@@ -12,6 +12,7 @@ const LoginScreen = () =>  {
         />
       </View>
 
+
       <Text style={styles.title}>Sign In</Text>
 
       <TextInput

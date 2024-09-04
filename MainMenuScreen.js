@@ -143,6 +143,7 @@ const styles = StyleSheet.create({
   navTitle: {
     fontSize: 20,
     fontWeight: 'bold',
+    
     color: '#ffffff', // White text
   },
   navRight: {

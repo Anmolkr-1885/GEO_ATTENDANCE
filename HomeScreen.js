@@ -18,6 +18,7 @@ const HomeScreen = () => {
         />
         <View style={styles.spacer} />
         <Button
+     
           title="Signup"
           onPress={() => navigation.navigate('SignupScreen')}
           color="#28a745" // Button color

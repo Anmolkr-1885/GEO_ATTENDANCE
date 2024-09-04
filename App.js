@@ -30,6 +30,7 @@ const App = () => {
             <Stack.Screen name="SignupScreen" component={SignupScreen} />
           </>
         )}
+        
       </Stack.Navigator>
     </NavigationContainer>
   );

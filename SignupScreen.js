@@ -7,6 +7,7 @@ export default function SignupScreen({ navigation }) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
 
+  
   const handleSignup = () => {
     // Add your signup logic here
     console.log('Signup Details:', { name, eid, email, password });
