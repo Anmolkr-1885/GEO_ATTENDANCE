@@ -1,2 +1,2 @@
-npm install 
+npm install   then   
 npx expo start
